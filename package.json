@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "express": "^4.17.3",
+    "passport": "^0.5.2",
+    "passport-local": "^1.0.0"
+  },
+  "scripts": {
+    "test": "sad",
+    "start": "nodemon server.js"
+  },
+  "name": "package",
+  "version": "1.0.0",
+  "description": "backend",
+  "main": "server.js",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  },
+  "author": "",
+  "license": "ISC"
+}
